@@ -1,0 +1,31 @@
+.dias {
+    font-size: 1.5em;
+    font-weight: 900;
+    background-color: black;
+}
+.horarios {
+    font-style: italic;
+    background-color: black;
+}
+.dia1 {
+    color: yellow;
+}
+.dia2 {
+    color:  white;
+}
+
+.dia3 {
+    color: yellow;
+}
+
+.dia4 {
+    color: white;
+
+}
+.dia5 {
+    color: yellow;
+
+}
+.finde {
+    color: rgb(198, 194, 194);
+}
